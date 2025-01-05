@@ -12,5 +12,5 @@ comments: true
 
 ![MyFinal Screenshot](./assets/images/MyFinal.jpg)
 
-- sample item 1
+- [sample item 1](fccourse.liara.run)
 - smaple item 2
