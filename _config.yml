@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               : 
 facebook:
-  username               : sauleh.eetemadi
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -107,8 +107,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Khargooshe Naziloo"
-  avatar           : "/assets/images/bio-photo.jpg"
+  name             : "Hadi Mousavi"
+  avatar           : "/assets/images/7.jpg"
   bio              : I'm the best student.
   location         : "تهران"
   email            : hadi.mousavi.2005@gmail.com

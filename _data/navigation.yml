@@ -2,21 +2,21 @@
 main:
   - title: "MyFinal"
     url: /MyFinal/
-  # - title: "CV"
-  #   url: /cv/
-  # - title: "Courses"
-  #   url: /courses/
-  # - title: "Friends"
-  #   url: /friends/
-  # - title: "Links"
-  #   url: /links/
-  # - title: "Hobbies"
-  #   url: /hobbies/  
-  # - title: "Gallery"
-  #   url: /gallery/
-  # - title: "Blog"
-  #   url: /blog/
-  # - title: "About"
+  - title: "CV"
+    url: /cv/
+  - title: "Courses"
+    url: /courses/
+  - title: "Friends"
+    url: /friends/
+  - title: "Links"
+    url: /links/
+  - title: "Hobbies"
+    url: /hobbies/  
+  - title: "Gallery"
+    url: /gallery/
+  - title: "Blog"
+    url: /blog/
+  - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
